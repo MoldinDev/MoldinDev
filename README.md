@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MoldinDev
 - 👀 I’m so passionate in programming
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on Website Project
+- 🌱 I’m currently begin to learning Java
+- 💞️ I’m looking to collaborate with other developer
 - 📫 How to reach me? Feel free to Mail me (Moldin.dev@gmail.com)
 
 <!---
