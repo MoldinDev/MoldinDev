@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoldinDev
 - 👀 I’m so passionate in programming
-- 🌱 I’m currently begin to learning Java
+- 🌱 I’m currently begin to learning Frontend web development
 - 💞️ I’m looking to collaborate with other developer
 - 📫 How to reach me? Feel free to Mail me (Moldin.dev@gmail.com)
 
