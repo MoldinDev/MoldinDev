@@ -4,7 +4,7 @@
 - 🌱 I’m currently begin to learning Frontend web development
 - 💞️ I’m looking to collaborate with other developer
 - 📫 How to reach me? Feel free to Mail me (Moldin.dev@gmail.com)
-- `npm run moldindev 😅☝️` - Start day with Bismillah
+- `npm run moldindev 😅☝️`: Start day with Bismillah
 
 <!---
 MoldinDev/MoldinDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
